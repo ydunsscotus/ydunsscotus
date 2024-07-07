@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+About
+I'm a Game Developer with a growing interest in Technical Art, Level Design, and Visual Design. I'm passionate about creating engaging game levels and stunning visuals that captivate players. Besides that, I'm also diving into 3D modeling, texturing, and animation. As I continue to learn and develop my skills, I strive to bring creative visions to life and craft immersive gaming experiences.
 <!--
 **ydunsscotus/ydunsscotus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
