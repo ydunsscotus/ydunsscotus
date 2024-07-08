@@ -1,6 +1,8 @@
 ## Hi there 👋
 About
 I'm a Game Developer with a growing interest in Technical Art, Level Design, and Visual Design. I'm passionate about creating engaging game levels and stunning visuals that captivate players. Besides that, I'm also diving into 3D modeling, texturing, and animation. As I continue to learn and develop my skills, I strive to bring creative visions to life and craft immersive gaming experiences.
+
+My 3D Arts Portfolio: https://descriptive-centaur-b6e.notion.site/Portfolio-on-Progress-c3c45914fc28465197ff99ffb46eda83?pvs=4
 <!--
 **ydunsscotus/ydunsscotus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
