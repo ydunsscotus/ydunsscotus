@@ -47,29 +47,6 @@ I'm a Game Developer with a growing interest in Technical Art, Level Design, and
 </table>
 
 <!-- ============================================= -->
-<table>
-  <thead>
-    <tr>
-      <th width="500px" align="center"><a href="https://github.com/ydunsscotus/Astropong">Astro Pong</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr width="500px" align="center">
-  <td>
-    
-![astro pong (1)](https://github.com/ydunsscotus/TileCavern/assets/113657705/a07effe6-2879-40f5-84fd-61289f9e6b59)
-
-
-
-  </td>
-  </tr>
-    <tr width="500px">
-      <td valign="text-top">
-        <p align="center">
-         Astropong is a space-themed pong arcade game that offers two engaging modes: Single Player and Versus Player. In this game, players can enjoy the classic pong experience with a cosmic twist.
-        </p>
-      </td>
-  </tr>
 
 
 
