@@ -8,7 +8,7 @@ I'm a Game Developer with a growing interest in Technical Art, Level Design, and
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/ydunsscotus/ProjectStir-2_Public">Project-Stir 2</th>
+      <th width="500px" align="center"><a href="https://github.com/ydunsscotus/Astropong">Astropong</th>
       <th width="500px" align="center"><a href=https://github.com/ydunsscotus/TileCavern>TileCavern</th>
     </tr>
   </thead>
@@ -17,7 +17,7 @@ I'm a Game Developer with a growing interest in Technical Art, Level Design, and
   <tr width="500px" align="center">
   <td>
     
-![GIF](https://github.com/ydunsscotus/TileCavern/assets/113657705/ad8e859f-b602-48e6-bf3a-5716f38e6686)
+![Astropong](https://github.com/ydunsscotus/Astropong/assets/113657705/57d76c7c-a5ef-4ae5-990c-f5a8b8eaf1f5)
 
   </td>
    
@@ -33,7 +33,7 @@ I'm a Game Developer with a growing interest in Technical Art, Level Design, and
   <tr width="500px">
     <td valign="text-top">
       <p align="center">
-        ProjectStir 2 is a driving simulation application meticulously crafted to assess driving skills performance using a game-centric approach. Within this application, drivers or users are tasked with racing againts AI. The performance evaluation revolves around the time and position that the users finish with.
+        Astropong is a space-themed pong arcade game that offers two engaging modes: Single Player and Versus Player. In this game, players can enjoy the classic pong experience with a cosmic twist.
       </p>
     </td>
     <td valign="text-top">
